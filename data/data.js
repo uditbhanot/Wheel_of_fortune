@@ -1,0 +1,1 @@
+const data=['Knowing is not enough we must apply', 'Ambition is the path to success', 'Willing is not enough we must do','Ambition is the path to success', 'Clarity precedes success', 'Commitment is an act not a word', 'The weak can never forgive']
